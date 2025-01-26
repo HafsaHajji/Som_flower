@@ -8,23 +8,7 @@ University of Zurich
 
 
 
-7
-Version control systems
- A version control system (often called a source code
-control system) does these things:
-Keeps multiple (older and newer) versions of everything (not
-just source code)
-Requests comments regarding every change
-Allows “check in” and “check out” of files so you know which
-files someone else is working on
-Displays differences between versions
-Benefits of version control
- For working by yourself:
-Gives you a “time machine” for going back to earlier versions
-Gives you great support for different versions (standalone, web
-app, etc.) of the same basic project
- For working with others:
-Greatly simplifies concurrent work, merging changes
+
 8
 What are Git and GitHub
  Git is a free and open source distributed version control
