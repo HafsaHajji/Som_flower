@@ -4,15 +4,7 @@ Xiao Li
 Department of Informatics
 University of Zurich
 
-3
-Why version control?
- Scenario 1:
-Your program is working
-You change “just one thing”
-Your program breaks
-You change it back
-Your program is still broken--why?
- Has this ever happened to you?
+
 4
 Why version control? (part 2)
  Your program worked well enough yesterday
