@@ -12,8 +12,26 @@ University of Zurich
 
 
 
+<<<<<<< HEAD
+
+14
+Making commits
+ You do your work in your project directory, as usual
+ If you create new files and/or folders, they are not tracked by Git unless you ask it to do so
+ git add newFile1 newFolder1 newFolder2 newFile2
+ Committing makes a “snapshot” of everything being tracked into your repository
+ A message telling what you have done is required
+ git commit –m “Uncrevulated the conundrum bar”
+ git commit
+ This version opens an editor for you the enter the message
+ To finish, save and quit the editor
+ Format of the commit message
+ One line containing the complete summary
+ If more than one line, the second line must be blank
+=======
 
 
+>>>>>>> 58b2c96d92a02cfd364e59d0672cd892e31e36fd
 15
 Commits and graphs
  A commit is when you tell git that a change (or addition) you have made is
