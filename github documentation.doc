@@ -6,15 +6,7 @@ University of Zurich
 
 
 
-5
-Version control for teams
- Scenario:
-You change one part of a program--it works
-Your co-worker changes another part--it works
-You put them together--it doesn’t work
-Some change in one part must have broken something in the
-other part
-What were all the changes?
+
 6
 Teams (part 2)
  Scenario:
