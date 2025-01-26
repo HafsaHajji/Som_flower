@@ -12,8 +12,16 @@ University of Zurich
 
 
 
-<<<<<<< HEAD
-
+13
+init and the .git repository
+ When you said git init in your project directory, or
+when you cloned an existing project, you created a
+repository
+The repository is a subdirectory named .git containing various
+files
+The dot indicates a “hidden” directory
+You do not work directly with the contents of that directory;
+various git commands do that for you
 14
 Making commits
  You do your work in your project directory, as usual
@@ -28,10 +36,6 @@ Making commits
  Format of the commit message
  One line containing the complete summary
  If more than one line, the second line must be blank
-=======
-
-
->>>>>>> 58b2c96d92a02cfd364e59d0672cd892e31e36fd
 15
 Commits and graphs
  A commit is when you tell git that a change (or addition) you have made is
