@@ -10,17 +10,7 @@ University of Zurich
 
 
 
-BASIC GIT COMMANDS
-Introduce yourself to Git
- On your computer, open the Git Shell application.
- Enter these lines (with appropriate changes):
- git config --global user.name "John Smith"
- git config --global user.email jsmith@seas.upenn.edu
- You only need to do this once
- If you want to use a different name/email address for a
-particular project, you can change it for just that project
-cd to the project directory
-Use the above commands, but leave out the --global
+
 12
 The repository
  Your top-level working directory contains everything about your project
