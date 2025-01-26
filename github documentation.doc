@@ -11,7 +11,20 @@ University of Zurich
 
 
 
-
+12
+The repository
+ Your top-level working directory contains everything about your project
+ The working directory probably contains many subdirectories—source code, binaries,
+documentation, data files, etc.
+ One of these subdirectories, named .git, is your repository
+ At any time, you can take a “snapshot” of everything (or selected things) in
+your project directory, and put it in your repository
+ This “snapshot” is called a commit object
+ The commit object contains (1) a set of files, (2) references to the “parents” of the commit
+object, and (3) a unique “SHA1” name
+ Commit objects do not require huge amounts of memory
+ You can work as much as you like in your working directory, but the
+repository isn’t updated until you commit something
 13
 init and the .git repository
  When you said git init in your project directory, or
